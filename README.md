@@ -1,1 +1,13 @@
-https://camo.githubusercontent.com/e569686d6182fa7259dcb392e42e16d2e336b408f34362a3bea6d13c8fdc0337/68747470733a2f2f7a656e6f646f2e6f72672f7265636f72642f373734323939372f66696c65732f546f70735f42616467655f4e6173612e706e67
+# Transform to Open Science (TOPS)
+
+## Introduction
+
+Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
+
+Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
+
+Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
